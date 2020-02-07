@@ -1,0 +1,34 @@
+p{
+    color: blue;
+}
+
+#parrafo1{
+    color: brown;
+}
+
+button:hover{
+    background-color: red;
+}
+
+p{
+    background-color: lawngreen;
+}
+
+p::selection{
+    background-color: darkorange;
+    color: darkblue;
+}
+
+h1::selection{
+    background-color: darkorange;
+    color: darkblue;
+}
+
+h2::selection{
+    background-color: darkorange;
+    color: darkblue;
+}
+
+input:focus{
+    background-color: darkorange;
+}
